@@ -1,11 +1,11 @@
 stage("Git Pull"){
-    steps{
+    step{
         git url: "https://github.com/sakshi-s0ni/SPE_Calculator.git", branch: "master",
         credentialsId: "git-cred"
     }
 }
 stage("Maven Build"){
-    steps{
+    step{
         sh "mvn clean install"
     }
 }
