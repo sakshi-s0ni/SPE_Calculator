@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1fa5fd8-7ded-4e9f-90dc-382b18953eec" name="Changes" comment="pipeline">
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/calculator/Calculate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,8 @@
       <updated>1677155100682</updated>
       <workItem from="1677155102133" duration="2045000" />
       <workItem from="1677733207410" duration="2886000" />
-      <workItem from="1677766912008" duration="206000" />
+      <workItem from="1677766912008" duration="1870000" />
+      <workItem from="1677826649165" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="Initialise">
       <created>1677156576538</created>
@@ -116,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677767065921</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="pipeline">
+      <created>1677767131683</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677767131683</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
