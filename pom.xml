@@ -29,7 +29,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>calculator.Calculator</mainClass>
+                                    <mainClass>org.calculator.Calculate</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
