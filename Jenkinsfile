@@ -35,6 +35,11 @@ pipeline {
                 sh 'docker push sakshisoni6/spe_calculator'
             }
         }
+        stage('Ansible Deploy'){
+            steps{
+                ansiblePlaybook colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook:'p3.yml'
+            }
+        }
     }
     post{
         always{
