@@ -10,7 +10,7 @@ pipeline {
                  credentialsId: 'git-cred'
             }
         }
-        stage('Build Maven project') {
+        stage('Maven Build') {
             steps {
                 sh "mvn clean install"
             }

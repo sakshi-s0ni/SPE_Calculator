@@ -57,7 +57,7 @@
       <workItem from="1677766912008" duration="1870000" />
       <workItem from="1677826649165" duration="3184000" />
       <workItem from="1677834395572" duration="731000" />
-      <workItem from="1678683625885" duration="1336000" />
+      <workItem from="1678683625885" duration="1357000" />
     </task>
     <task id="LOCAL-00001" summary="Initialise">
       <created>1677156576538</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678684853875</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Docker Pipeline Configure">
+      <created>1678684967970</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678684967970</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
