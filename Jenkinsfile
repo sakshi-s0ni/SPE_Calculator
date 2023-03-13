@@ -22,7 +22,7 @@ pipeline {
         }
         stage('Build Docker Image'){
             steps {
-                sh 'docker build -t sakshisoni6/spe_calculator'
+                sh 'docker build -t sakshisoni6/spe_calculator .'
             }
         }
         stage('Docker Login'){
