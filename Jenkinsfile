@@ -22,7 +22,7 @@ pipeline {
         }
         stage('Build Docker Image'){
             steps {
-                sh 'docker build -t sakshisoni6/SPE-Calculator'
+                sh 'docker build -t sakshisoni6/spe_calculator'
             }
         }
         stage('Docker Login'){
@@ -32,7 +32,7 @@ pipeline {
         }
         stage('Push Image'){
             steps {
-                sh 'docker push sakshisoni6/SPE-Calculator'
+                sh 'docker push sakshisoni6/spe_calculator'
             }
         }
     }
