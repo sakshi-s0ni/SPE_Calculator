@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1fa5fd8-7ded-4e9f-90dc-382b18953eec" name="Changes" comment="Docker Pipeline Configure">
-      <change afterPath="$PROJECT_DIR$/p3.yml" afterDir="false" />
+    <list default="true" id="c1fa5fd8-7ded-4e9f-90dc-382b18953eec" name="Changes" comment="Ansible">
+      <change afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M8hQWdqXuAxTF94reHhl8tE3dH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +60,8 @@
       <workItem from="1677766912008" duration="1870000" />
       <workItem from="1677826649165" duration="3184000" />
       <workItem from="1677834395572" duration="731000" />
-      <workItem from="1678683625885" duration="6134000" />
+      <workItem from="1678683625885" duration="6961000" />
+      <workItem from="1678767723381" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="Initialise">
       <created>1677156576538</created>
@@ -208,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678699639534</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Ansible">
+      <created>1678701278266</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678701278266</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +242,7 @@
     <MESSAGE value="Simple addition" />
     <MESSAGE value="Testing stage" />
     <MESSAGE value="Docker Pipeline Configure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docker Pipeline Configure" />
+    <MESSAGE value="Ansible" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ansible" />
   </component>
 </project>
