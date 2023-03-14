@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1fa5fd8-7ded-4e9f-90dc-382b18953eec" name="Changes" comment="Ansible">
-      <change afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <workItem from="1677826649165" duration="3184000" />
       <workItem from="1677834395572" duration="731000" />
       <workItem from="1678683625885" duration="6961000" />
-      <workItem from="1678767723381" duration="57000" />
+      <workItem from="1678767723381" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="Initialise">
       <created>1677156576538</created>
@@ -217,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678701278266</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Ansible">
+      <created>1678767794546</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678767794546</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
