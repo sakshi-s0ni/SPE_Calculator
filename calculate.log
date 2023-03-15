@@ -1,2 +1,8 @@
-2023-03-14 15:10:33.597 [main] INFO  org.calculator.Calculate - [ADD - 3 AND] 4
-2023-03-14 15:10:33.605 [main] INFO  org.calculator.Calculate - [RESULT ADD] - 7.0
+2023-03-15 18:07:30.941 [main] INFO  org.calculator.Calculate - [FACTORIAL] - 4
+2023-03-15 18:07:30.948 [main] INFO  org.calculator.Calculate - [RESULT - FACTORIAL] - 24
+2023-03-15 18:07:45.370 [main] INFO  org.calculator.Calculate - [SQ ROOT] - 36.0
+2023-03-15 18:07:45.373 [main] INFO  org.calculator.Calculate - [RESULT - SQ ROOT] - 6.0
+2023-03-15 18:07:50.377 [main] INFO  org.calculator.Calculate - [POWER - 4.0 RAISED TO] 5.0
+2023-03-15 18:07:50.377 [main] INFO  org.calculator.Calculate - [RESULT - POWER] - 1024.0
+2023-03-15 18:08:23.734 [main] INFO  org.calculator.Calculate - [NATURAL LOG] - -10.0
+2023-03-15 18:08:23.738 [main] INFO  org.calculator.Calculate - [RESULT - NATURAL LOG] - NaN
