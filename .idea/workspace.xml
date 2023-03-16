@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1fa5fd8-7ded-4e9f-90dc-382b18953eec" name="Changes" comment="TestFiles">
+    <list default="true" id="c1fa5fd8-7ded-4e9f-90dc-382b18953eec" name="Changes" comment="Ansible">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p3.yml" beforeDir="false" afterPath="$PROJECT_DIR$/p3.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/calculator/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/calculator/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate.log" beforeDir="false" afterPath="$PROJECT_DIR$/calculate.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,9 @@
       <workItem from="1678767723381" duration="8650000" />
       <workItem from="1678805328943" duration="2032000" />
       <workItem from="1678882659553" duration="7434000" />
-      <workItem from="1678971186732" duration="933000" />
+      <workItem from="1678971186732" duration="2053000" />
+      <workItem from="1678984926311" duration="550000" />
+      <workItem from="1678985487688" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="Initialise">
       <created>1677156576538</created>
@@ -298,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678971480093</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Ansible">
+      <created>1678972237119</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1678972237119</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,9 +332,9 @@
     <MESSAGE value="Simple addition" />
     <MESSAGE value="Testing stage" />
     <MESSAGE value="Docker Pipeline Configure" />
-    <MESSAGE value="Ansible" />
     <MESSAGE value="Logger" />
     <MESSAGE value="TestFiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestFiles" />
+    <MESSAGE value="Ansible" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ansible" />
   </component>
 </project>
