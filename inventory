@@ -1,0 +1,2 @@
+[client1]
+172.16.144.179 ansible_ssh_user=sakshiansible ansible_ssh_pass=Sakshi@6 ansible_sudo_user=sakshiansible ansible_sudo_pass=Sakshi@6
