@@ -9,6 +9,7 @@ public class Calculate {
     }
     public static void main(String[] args) {
 
+//        && sudo apt-get install gnome-terminal &&  gnome-terminal -- docker attach calc
         Calculate calculator = new Calculate();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Scientific Calculator using DevOps.");
