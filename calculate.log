@@ -528,3 +528,9 @@
 2023-03-16 22:38:49.806 [main] INFO  org.calculator.Calculate - [RESULT - NATURAL LOG] - 0.7419373447293773
 2023-03-16 22:44:08.681 [main] INFO  org.calculator.Calculate - [NATURAL LOG] - 34.0
 2023-03-16 22:44:08.688 [main] INFO  org.calculator.Calculate - [RESULT - NATURAL LOG] - 3.5263605246161616
+2023-03-18 15:58:39.749 [main] INFO  org.calculator.Calculate - [FACTORIAL] - 34
+2023-03-18 15:58:39.757 [main] INFO  org.calculator.Calculate - [RESULT - FACTORIAL] - 2.9523279903960412E38
+2023-03-18 15:58:52.989 [main] INFO  org.calculator.Calculate - [SQ ROOT] - 345678.0
+2023-03-18 15:58:52.992 [main] INFO  org.calculator.Calculate - [RESULT - SQ ROOT] - 587.9438748724235
+2023-03-18 15:59:03.039 [main] INFO  org.calculator.Calculate - [NATURAL LOG] - 65.0
+2023-03-18 15:59:03.039 [main] INFO  org.calculator.Calculate - [RESULT - NATURAL LOG] - 4.174387269895637

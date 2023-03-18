@@ -67,9 +67,9 @@ public class Calculate {
         } while (true);
 }
 
-    public int factorial(int num) {
+    public double factorial(int num) {
         logger.info("[FACTORIAL] - " + num);
-        int result = fact(num);
+        double result = fact(num);
         logger.info("[RESULT - FACTORIAL] - " + result);
         return result;
     }
@@ -107,8 +107,8 @@ public class Calculate {
         logger.info("[RESULT - NATURAL LOG] - " + result);
         return result;
     }
-    public int fact(int num) {
-        int f = 1;
+    public double fact(int num) {
+        double f = 1;
         for(int i = 1; i <= num; ++i)
         { f *= i;   }
         return  f;
