@@ -11,6 +11,7 @@ public class Calculate {
 
         Calculate calculator = new Calculate();
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Scientific Calculator using DevOps.");
         do {
             System.out.println("Choose from the following operations - ");
