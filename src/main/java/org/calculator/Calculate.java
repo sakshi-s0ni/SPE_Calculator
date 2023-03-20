@@ -18,7 +18,6 @@ public class Calculate {
                     "5. Exit");
 
             int choice;
-
             try {
                 choice = scanner.nextInt();
             } catch (InputMismatchException error) {
