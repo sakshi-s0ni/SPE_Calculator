@@ -14,7 +14,6 @@ public class Calculate {
         System.out.println("Scientific Calculator using DevOps.");
         do {
 
-
             System.out.println("Choose from the following operations - ");
             System.out.println("1. Factorial\n2. Square root\n3. Power\n4. Natural Logarithm\n" +
                     "5. Exit");
