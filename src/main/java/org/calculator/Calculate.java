@@ -8,7 +8,6 @@ public class Calculate {
     public Calculate(){
     }
     public static void main(String[] args) {
-
         Calculate calculator = new Calculate();
         Scanner scanner = new Scanner(System.in);
 
