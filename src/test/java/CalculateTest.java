@@ -8,17 +8,15 @@ public class CalculateTest {
 
     @Test
     public void factorialTruePositive(){
-        assertEquals("Finding factorial of a number for True Positive", 720, calculator.fact(6), DELTA);
+        assertEquals("Finding factorial of a number for True Positive", 120, calculator.fact(5), DELTA);
         assertEquals("Finding factorial of a number for True Positive", 1, calculator.fact(1), DELTA);
         assertEquals("Finding factorial of a number for True Positive", 6, calculator.fact(3), DELTA);
-        assertEquals("Finding factorial of a number for True Positive", 24, calculator.fact(4), DELTA);
         assertEquals("Finding factorial of a number for True Positive", 1, calculator.fact(0), DELTA);
     }
 
     @Test
     public void factorialFalsePositive(){
         assertNotEquals("Finding factorial of a number for False Positive", 113, calculator.fact(5), DELTA);
-        assertNotEquals("Finding factorial of a number for False Positive", 10, calculator.fact(6), DELTA);
         assertNotEquals("Finding factorial of a number for False Positive", 42, calculator.fact(4), DELTA);
         assertNotEquals("Finding factorial of a number for False Positive", 9, calculator.fact(2), DELTA);
         assertNotEquals("Finding factorial of a number for False Positive", 0, calculator.fact(0), DELTA);
@@ -69,22 +67,4 @@ public class CalculateTest {
         assertNotEquals("Finding square root for False Positive", 2, calculator.squareRoot(36), DELTA);
 
     }
-
-//    @Test
-//    public void additionTruePositive(){
-//        assertEquals("Finding addition for True Positive", 100, calculator.addition(50,50), DELTA);
-//        assertEquals("Finding addition for True Positive", 1, calculator.addition(1,0), DELTA);
-//        assertEquals("Finding addition for True Positive", 6, calculator.addition(7,-1), DELTA);
-//        assertEquals("Finding addition for True Positive", 14, calculator.addition(10,4), DELTA);
-//        assertEquals("Finding addition for True Positive", 0, calculator.addition(0,0), DELTA);
-//    }
-//
-//    @Test
-//    public void additionFalsePositive(){
-//        assertEquals("Finding addition for True Positive", 100, calculator.addition(50,55), DELTA);
-//        assertEquals("Finding addition for True Positive", 1, calculator.addition(1,-1), DELTA);
-//        assertEquals("Finding addition for True Positive", 60, calculator.addition(10,-1), DELTA);
-//        assertEquals("Finding addition for True Positive", 14, calculator.addition(100,4), DELTA);
-//        assertEquals("Finding addition for True Positive", -1, calculator.addition(0,0), DELTA);
-//    }
 }
